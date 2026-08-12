@@ -1,29 +1,39 @@
 {
   "videoId": "jNQXAC9IVRw",
-  "title": "Me at the zoo (smoke test)",
+  "title": "An Elephant's Long Trunks",
   "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-  "transcriptSource": "fallback",
-  "worthWatchingScore": 50,
-  "timeToValue": "0:10",
+  "transcriptSource": "gemini",
+  "worthWatchingScore": 20,
+  "timeToValue": "00:05",
   "bestTimestamp": {
     "seconds": 5,
-    "label": "0:05",
-    "rationale": "smoke"
+    "label": "Trunk feature highlighted",
+    "rationale": "The video's main point about the elephant's long trunk is made at this timestamp."
   },
-  "insights": [
-    {
-      "title": "Smoke",
-      "description": "Storage write test"
-    }
-  ],
+  "insights": [],
   "chapters": [
     {
-      "name": "Intro",
-      "start": "0:00",
-      "end": "0:19",
-      "description": "Short clip."
+      "name": "Introducing an Elephant",
+      "start": 0,
+      "end": 1,
+      "description": "The video opens by presenting an elephant to the viewer.",
+      "time_range": "00:00 - 00:01"
+    },
+    {
+      "name": "The Elephant's Long Trunks",
+      "start": 5,
+      "end": 14,
+      "description": "The speaker highlights the elephant's distinctive and notably long trunk as a key feature of the animal.",
+      "time_range": "00:05 - 00:14"
+    },
+    {
+      "name": "Concluding Observation",
+      "start": 14,
+      "end": 19,
+      "description": "The video concludes with a brief observation about the elephant's trunk, noting it is 'cool,' and a final remark about the presentation.",
+      "time_range": "00:14 - 00:19"
     }
   ],
   "createdAt": "2026-08-12T20:07:03.393Z",
-  "updatedAt": "2026-08-12T20:07:03.393Z"
+  "updatedAt": "2026-08-12T20:07:23.307Z"
 }
