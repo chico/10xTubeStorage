@@ -1,12 +1,12 @@
 Original link: https://www.youtube.com/watch?v=jNQXAC9IVRw
-Title: An Elephant's Long Trunks
-Brief description: This short video introduces an elephant, highlighting the characteristic feature of its very long trunk.
+Title: Me at the zoo
+Brief description: This short video features a person at the zoo in front of elephants, briefly discussing their distinctive long trunks before concluding.
 
-### Introducing an Elephant (00:00 - 00:01)
-The video opens by presenting an elephant to the viewer.
+### Introduction to the Elephants (00:00 - 00:02)
+The speaker begins the video by introducing the setting, standing in front of elephants at a zoo.
 
-### The Elephant's Long Trunks (00:05 - 00:14)
-The speaker highlights the elephant's distinctive and notably long trunk as a key feature of the animal.
+### Observation of Elephant Trunks (00:01 - 00:14)
+The speaker highlights a notable characteristic of elephants, pointing out their exceptionally long trunks as a "cool thing."
 
-### Concluding Observation (00:14 - 00:19)
-The video concludes with a brief observation about the elephant's trunk, noting it is 'cool,' and a final remark about the presentation.
+### Concluding Remarks (00:17 - 00:20)
+The segment concludes with the speaker indicating that there is nothing further to add about the topic.
