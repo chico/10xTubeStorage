@@ -1,0 +1,29 @@
+{
+  "videoId": "jNQXAC9IVRw",
+  "title": "Me at the zoo (smoke test)",
+  "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+  "transcriptSource": "fallback",
+  "worthWatchingScore": 50,
+  "timeToValue": "0:10",
+  "bestTimestamp": {
+    "seconds": 5,
+    "label": "0:05",
+    "rationale": "smoke"
+  },
+  "insights": [
+    {
+      "title": "Smoke",
+      "description": "Storage write test"
+    }
+  ],
+  "chapters": [
+    {
+      "name": "Intro",
+      "start": "0:00",
+      "end": "0:19",
+      "description": "Short clip."
+    }
+  ],
+  "createdAt": "2026-08-12T20:07:03.393Z",
+  "updatedAt": "2026-08-12T20:07:03.393Z"
+}
