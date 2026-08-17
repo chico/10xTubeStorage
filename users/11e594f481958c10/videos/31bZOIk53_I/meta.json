@@ -1,0 +1,95 @@
+{
+  "videoId": "31bZOIk53_I",
+  "title": "FREE Unlimited AI Voices | Better Than ElevenLabs (Microsoft Banned It)",
+  "url": "https://www.youtube.com/watch?v=31bZOIk53_I",
+  "transcriptSource": "gemini",
+  "worthWatchingScore": 90,
+  "timeToValue": "00:36",
+  "bestTimestamp": {
+    "seconds": 36,
+    "label": "Accessing the VibeVoice repository",
+    "rationale": "This timestamp marks the beginning of the crucial information on how to obtain the 'banned' VibeVoice repository, which is the core subject and value proposition of the video."
+  },
+  "insights": [
+    {
+      "title": "VibeVoice Banned by Microsoft",
+      "description": "Microsoft's VibeVoice, an open-source voice generation tool, was briefly removed due to concerns about its highly realistic voice output and potential for deep fakes."
+    },
+    {
+      "title": "Local Installation for Free AI Voices",
+      "description": "The video shows how to access a community-saved version of VibeVoice to run locally, offering free and unlimited AI voice generation without subscription fees, unlike services like ElevenLabs."
+    },
+    {
+      "title": "Multi-speaker and Multilingual Capabilities",
+      "description": "VibeVoice supports generating audio with multiple speakers and in various languages, enabling the creation of AI podcasts and multilingual content."
+    },
+    {
+      "title": "Voice Cloning Feature",
+      "description": "The tutorial details how to clone your own voice using a 30-second audio sample, achieving highly realistic AI voice replication."
+    }
+  ],
+  "chapters": [
+    {
+      "name": "VibeVoice: Microsoft's Banned AI Voice Tool",
+      "start": "00:00",
+      "end": "00:36",
+      "description": "Microsoft released and then quickly pulled VibeVoice due to its highly realistic voice generation and concerns about deep fakes. Community members, however, preserved the code."
+    },
+    {
+      "name": "Accessing the VibeVoice Repository",
+      "start": "00:36",
+      "end": "01:02",
+      "description": "This section explains how to obtain the preserved VibeVoice GitHub repository to clone voices and generate AI audio locally, avoiding subscription fees."
+    },
+    {
+      "name": "Multi-Speaker & Customization",
+      "start": "01:02",
+      "end": "01:15",
+      "description": "VibeVoice allows for multiple speakers in audio generation, enabling the creation of AI podcasts with customizable voices."
+    },
+    {
+      "name": "VibeVoice vs. Paid Alternatives",
+      "start": "01:15",
+      "end": "02:35",
+      "description": "The video showcases the quality of VibeVoice's generated audio, asserting it is comparable to, if not better than, paid subscriptions like ElevenLabs."
+    },
+    {
+      "name": "Installing VibeVoice",
+      "start": "02:35",
+      "end": "05:11",
+      "description": "This segment guides on installing a specific community-maintained version of the VibeVoice repository using Claude Code to ensure text-to-speech functionality."
+    },
+    {
+      "name": "Testing VibeVoice with Pre-loaded Voices",
+      "start": "05:11",
+      "end": "07:39",
+      "description": "The presenter demonstrates spinning up a local server to test VibeVoice, showing how to select speakers, choose from pre-loaded voices, and generate audio samples."
+    },
+    {
+      "name": "Multilingual and Podcasting Features",
+      "start": "07:39",
+      "end": "09:47",
+      "description": "VibeVoice's capabilities extend to generating audio in multiple languages and creating podcast episodes with different speakers, showcasing its versatility."
+    },
+    {
+      "name": "Voice Cloning Your Own Voice",
+      "start": "09:47",
+      "end": "12:39",
+      "description": "A detailed walkthrough on how to clone your own voice using a 30-second audio clip, convert it to the correct format, and integrate it into VibeVoice."
+    },
+    {
+      "name": "Testing the Cloned Voice",
+      "start": "12:39",
+      "end": "14:52",
+      "description": "The video concludes by testing the newly cloned voice, demonstrating its realism and comparing it favorably to professional paid voice models."
+    },
+    {
+      "name": "Conclusion and Resources",
+      "start": "14:52",
+      "end": "15:48",
+      "description": "The presenter wraps up, encouraging viewers to like and subscribe, and offers a free course on building AI agents, along with providing all necessary installation instructions and prompts."
+    }
+  ],
+  "createdAt": "2026-08-17T16:06:33.511Z",
+  "updatedAt": "2026-08-17T16:06:33.511Z"
+}
