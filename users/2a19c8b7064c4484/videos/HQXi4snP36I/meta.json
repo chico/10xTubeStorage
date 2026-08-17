@@ -1,0 +1,119 @@
+{
+  "videoId": "HQXi4snP36I",
+  "title": "The AI Agent Every Company is About to Build | Vercel CEO Guillermo Rauch",
+  "url": "https://www.youtube.com/watch?v=HQXi4snP36I",
+  "transcriptSource": "fallback",
+  "worthWatchingScore": 90,
+  "timeToValue": "00:00",
+  "bestTimestamp": {
+    "seconds": 0,
+    "label": "Introduction to Company Agents",
+    "rationale": "The video starts immediately with the concept of agents running a company and sets the stage for the discussion."
+  },
+  "insights": [
+    {
+      "title": "AI Agents as Killer Apps",
+      "description": "AI agents are emerging as 'killer apps' for building software and running companies, similar to word processors for PCs or new use cases for mobile."
+    },
+    {
+      "title": "Internal Company Brain Agent",
+      "description": "Vercel uses an internal 'V' agent that acts as a knowledge base, data analysis, and project management tool, helping employees navigate company information and tasks."
+    },
+    {
+      "title": "The Evolution of 'V' to 'Eve'",
+      "description": "Vercel developed its internal 'V' agent and then created 'Eve,' a framework to democratize agent building, making it easier for anyone to create and deploy their own agents."
+    },
+    {
+      "title": "God Agent vs. Team of Agents",
+      "description": "The ideal agent experience is a 'god agent' (like Star Trek's computer) that acts as a router, delegating tasks to various specialized sub-agents while managing access control and identity."
+    },
+    {
+      "title": "Agents as Proactive Tools",
+      "description": "Future agents will be proactive, performing tasks like social media monitoring or report generation in the background, rather than just responding to prompts."
+    },
+    {
+      "title": "Importance of Secure Connectivity",
+      "description": "The biggest challenge in building agents is securely connecting them to internal systems, defining governance, data access, and security models."
+    },
+    {
+      "title": "Cost and Speed of AI Models",
+      "description": "The declining cost and increasing speed of AI models, particularly open-source ones, are significant advancements that will make agents more effective and accessible."
+    }
+  ],
+  "chapters": [
+    {
+      "name": "Introduction: The Rise of AI Agents",
+      "start": "00:00",
+      "end": "01:20",
+      "description": "Guillermo Rauch, CEO of Vercel, discusses the growing importance of AI agents in business and introduces Vercel's internal agent, highlighting its capabilities and impact."
+    },
+    {
+      "name": "AI Agents as Killer Applications",
+      "start": "01:20",
+      "end": "04:00",
+      "description": "Rauch explains how AI agents are becoming killer applications, drawing parallels to past technological shifts like personal computers and mobile phones, with a focus on coding agents and 'run your company better' agents."
+    },
+    {
+      "name": "Vercel's Internal 'V' Agent",
+      "start": "04:00",
+      "end": "06:23",
+      "description": "The discussion delves into Vercel's internal 'V' agent, an omni-present intelligence in Slack that helps employees with tasks, acting as a router to various specialized sub-agents."
+    },
+    {
+      "name": "Challenges in Implementing AI Agents",
+      "start": "06:23",
+      "end": "08:38",
+      "description": "The host asks about the difficulties of implementing AI agents for teams, particularly regarding permissions and integrating personal skills, prompting Rauch to explain Vercel's approach."
+    },
+    {
+      "name": "The 'Soul' of an Agent: Eve Framework",
+      "start": "08:38",
+      "end": "11:58",
+      "description": "Rauch introduces 'Eve,' Vercel's framework for building agents, emphasizing the concept of 'soul.md' files that define an agent's genesis and the importance of giving agents a secure, serverless computing environment."
+    },
+    {
+      "name": "God Agent vs. Team of Agents",
+      "start": "11:58",
+      "end": "14:15",
+      "description": "The conversation addresses whether to build one 'god agent' or a team of agents, with Rauch advocating for a central routing agent that manages access and delegates to specialized tools based on context."
+    },
+    {
+      "name": "Building and Maintaining Your Own Agent",
+      "start": "14:15",
+      "end": "17:35",
+      "description": "Rauch explains how to start building an Eve agent by defining its instructions, adding tools (like WordPress integration), and setting up communication channels, while also managing guardrails and human approvals."
+    },
+    {
+      "name": "Proactive Agents and Self-Improvement",
+      "start": "17:35",
+      "end": "20:56",
+      "description": "The discussion shifts to the concept of proactive agents that perform tasks autonomously and the importance of self-improvement for agents, including methods for evaluation and feedback."
+    },
+    {
+      "name": "Accessibility of Agent Building",
+      "start": "20:56",
+      "end": "23:44",
+      "description": "Rauch believes agent building will become democratized, with everyone able to create basic agents, while technical experts focus on core system loops, data access, and security."
+    },
+    {
+      "name": "Getting Started with Eve",
+      "start": "23:44",
+      "end": "26:08",
+      "description": "Rauch encourages listeners to try Eve.dev, connect an agent to a chat medium, and automate a 'toil task' as a starting point, sharing an example of Vercel's agent assisting with product changelogs."
+    },
+    {
+      "name": "Future of AI: Cost and Speed",
+      "start": "26:08",
+      "end": "29:28",
+      "description": "The conversation concludes with Rauch's excitement about the decreasing cost and increasing speed of AI models, likening the current state to the early days of the iPhone."
+    },
+    {
+      "name": "Model Agnosticism and Optimization",
+      "start": "29:28",
+      "end": "32:53",
+      "description": "Rauch highlights the benefit of model agnosticism in Eve, allowing users to choose the best models for different tasks (fast for interactive, accurate for asynchronous) and benefit from market competition."
+    }
+  ],
+  "createdAt": "2026-08-17T12:49:21.586Z",
+  "updatedAt": "2026-08-17T12:49:21.586Z"
+}
